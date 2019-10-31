@@ -1,0 +1,195 @@
+#header{
+	/*background-image:url('../images/background11.jpg');*/
+	width:1160px;
+	height:100px;
+	/*background-color:lavender;*/
+	text-align:center;
+	color:#660033;
+	font-size:18px;
+	font-weight:bold;
+	position:fixed;
+	left: 100px;
+	top:0px;
+
+}
+
+#topnav{
+	/*background-color:green;*/
+	position:fixed;
+	top:83px;
+	left:270px;
+	width:905px;
+	height:45px;
+	/*background-color:#99cccc;*/
+	
+}
+
+#article1{
+	width:805px;
+	height:390px;
+	position:absolute;
+	left:268px;
+	top:255px;
+	background-color:lavender;
+
+	text-align:justify;
+	border:0px solid green;
+
+
+}
+
+#article2{
+	width:805px;
+	height:390px;
+	border:0px solid green;
+	position:absolute;
+	top:630px;
+	left:268px;
+	background-color:lavender;
+
+}
+
+
+	#article3{
+	width:805px;
+	height:390px;
+	position:absolute;
+left:268px;
+	top:1000px;
+	background-color:lavender;
+		border:0px solid green;
+}
+
+#footnote{
+position:fixed;
+top:620px;
+left:400px;
+width:700px;
+color:#000000;
+/*text-indent:10px;*/
+text-align:justify;
+	
+}
+
+#bottomnav{
+
+	position:fixed;
+	top:580px;
+color:#440000;
+	left:400px;
+	font-size:20px;	
+	
+}
+
+
+
+#about{
+	position:fixed;
+	left:1130px;
+	top: 435px;
+	width:200px;
+	
+	
+	
+
+}
+
+#founder{
+	position:fixed;
+	top: 162px;
+	left:1100px;
+	
+}
+
+#headernav{
+	position:fixed;
+	
+}
+
+#logoleft{
+	position: fixed;
+	top:0px;
+	left:0px;
+	
+}
+
+#logoright{
+	position: fixed;
+	top:0px;
+	left:1248px;
+	
+}
+
+#topbanner{
+	
+		background-image:url('../images/background11.jpg');
+	width:1178px;
+	height:96px;
+	/*background-color:lavender;*/
+	text-align:center;
+
+	font-size:18px;
+	font-weight:bold;
+	position:fixed;
+	left: 100px;
+	top:0px;
+}
+#name{
+	
+	position:fixed;
+	top:0px;
+	left:400px;
+	color:#660033;
+	font-size:18px;
+	word-spacing:2px;
+	width:700px;
+}
+#motto {
+	position: fixed;
+	top:55px;
+	left:825px;
+	color:white;
+	font-style:italic;
+	font-family:arial,helvetica, sans serif;
+	font-size:18px;
+	font-weight:light;
+	
+	}
+	
+	
+body{
+			/*background-image:url('../images/sunset.jpg');*/
+			background-color:#99cccc;
+}
+#rightbar{
+	width:200px;
+	height:400px;
+	position:fixed;
+	top:240px;
+	left:10px;
+		padding:10px;
+		text-align:justify;
+	margin:10px;
+
+	
+}
+
+.scrollable{
+	height:200px;
+	overflow-y:auto;	
+}
+
+.bodyscroll{
+
+	height:1500px;
+	overflow-y:auto;	
+}
+
+ section1{
+background-image:url('../images/sunset.jpg');
+}
+
+h3{
+	color:#440000;
+	
+}
